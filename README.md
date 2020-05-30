@@ -1,5 +1,6 @@
 # Multiusers
-(1) go to project directory npm start
+(1) YOU NEED TO INSTALL DEPENDENCIES USING COMMAND IN PROJECT DIRECTORY: npm i bcryptjs@2.4.3 ejs@2.6.2express@4.17.1 express-session@1.16. mongoose@5.6.4
+    go to project directory npm start
 (2)to connect mongodb locally just got to bin folder in your pc
 then type command mongod --dbpath path of the data folder in your pc
 (3) then connect it to local MOngodb database and create database MultiUsers and collection users
